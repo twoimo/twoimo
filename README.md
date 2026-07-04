@@ -2,20 +2,30 @@
 
 # Yeonwoo Choi
 
-**AI/Web · Computer Vision · Security**
-
-<p>
-  <a href="https://www.linkedin.com/in/twoimo"><img src="https://img.shields.io/badge/LinkedIn-twoimo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:twoimo@dgu.ac.kr"><img src="https://img.shields.io/badge/Email-twoimo%40dgu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/twoimo?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-</p>
-
-<sub>Seoul, South Korea · M.S. Computer Engineering, Dongguk University</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/twoimo/twoimo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/twoimo/twoimo/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/twoimo/twoimo/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br />
 <br />
 
-<code>Currently building Tzudong</code> · <code>Next.js / TypeScript / Python</code> · <code>Fall Detection Research</code>
+<samp>
+  AI/Web · Computer Vision · Security
+  <br />
+  Building Tzudong and data-driven AI/web products.
+</samp>
+
+<br />
+<br />
+
+<samp>
+  <a href="https://github.com/twoimo?tab=repositories">repos</a> ·
+  <a href="https://github.com/twoimo/tzudong">tzudong</a> ·
+  <a href="https://www.linkedin.com/in/twoimo">linkedin</a> ·
+  <a href="mailto:twoimo@dgu.ac.kr">email</a>
+</samp>
 
 <br />
 <br />
@@ -28,5 +38,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5B21B6?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+<sub>Seoul, South Korea · M.S. Computer Engineering</sub>
 
 </div>
