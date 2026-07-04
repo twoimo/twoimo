@@ -16,14 +16,10 @@
 
 ---
 
-### About
-
-I build data-driven web products and AI prototypes, mainly around **Computer Vision**, **public-safety AI**, and **practical web interfaces**.
-
 ```txt
-Current     Tzudong — restaurant map platform
-Focus       Next.js / TypeScript / Python / Computer Vision
-Background  Fall detection, CCTV blind spots, secure S/W education
+Currently  Tzudong — restaurant map platform
+Focus      Next.js · TypeScript · Python · Computer Vision
+Research   Fall detection · CCTV blind spots · secure S/W education
 ```
 
 ### Stack
@@ -39,9 +35,9 @@ Background  Fall detection, CCTV blind spots, secure S/W education
 
 ### GitHub
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=twoimo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoimo&layout=compact&theme=tokyonight&hide_border=true&hide=tex" alt="Top languages" />
-
-</div>
+<p>
+  <a href="https://github.com/twoimo?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/twoimo/tzudong">Tzudong</a> ·
+  <a href="https://github.com/twoimo/Nimda">NIMDA</a> ·
+  <a href="https://github.com/twoimo?tab=overview">Activity</a>
+</p>
