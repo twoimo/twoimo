@@ -7,27 +7,6 @@
 </picture>
 
 <br />
-
-<samp>
-  <a href="https://github.com/twoimo?tab=repositories"><b>repos</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/twoimo/tzudong"><b>tzudong</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/twoimo"><b>linkedin</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:twoimo@dgu.ac.kr"><b>email</b></a>
-</samp>
-
-<br />
-<br />
-
-<samp>
-  AI/Web · Computer Vision · Security
-  <br />
-  Building Tzudong and data-driven AI/web products.
-</samp>
-
-<br />
 <br />
 
 <p>
@@ -38,7 +17,5 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5B21B6?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
-<sub>Seoul, South Korea · M.S. Computer Engineering</sub>
 
 </div>
