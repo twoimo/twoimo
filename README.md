@@ -1,12 +1,22 @@
 <div align="center">
 
-# YEONWOO CHOI
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br />
+
+<samp>
+  <a href="https://github.com/twoimo?tab=repositories"><b>repos</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/twoimo/tzudong"><b>tzudong</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/twoimo"><b>linkedin</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:twoimo@dgu.ac.kr"><b>email</b></a>
+</samp>
 
 <br />
 <br />
@@ -15,16 +25,6 @@
   AI/Web · Computer Vision · Security
   <br />
   Building Tzudong and data-driven AI/web products.
-</samp>
-
-<br />
-<br />
-
-<samp>
-  <a href="https://github.com/twoimo?tab=repositories">repos</a> ·
-  <a href="https://github.com/twoimo/tzudong">tzudong</a> ·
-  <a href="https://www.linkedin.com/in/twoimo">linkedin</a> ·
-  <a href="mailto:twoimo@dgu.ac.kr">email</a>
 </samp>
 
 <br />
