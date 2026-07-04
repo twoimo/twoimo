@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yeonwoo Choi · 최연우
+# Yeonwoo Choi
 
 **AI/Web Engineer with a Computer Vision + Security background**
 
