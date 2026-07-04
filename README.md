@@ -37,19 +37,7 @@ Background  Fall detection, CCTV blind spots, secure S/W education
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### Selected work
-
-- [**Tzudong**](https://github.com/twoimo/tzudong) — restaurant map platform, Next.js/TypeScript.
-- [**Snapish**](https://github.com/twoimo/Snapish) — fishing closed-season AI web service, YOLOv11m.
-- [**Ilsan Investment Insight**](https://github.com/twoimo/Ilsan-Investment-Insight) — data analysis/report for new-town reconstruction areas.
-- **M.S. research** — synthetic data generation and skeleton-based fall detection.
-
-### Highlights
-
-- 3 international conference presentations in AI/public-safety research.
-- K-Cyber Security Challenge, AI malware detection track — 1st place.
-- Smart Policing Data Utilization Contest — Grand Prize / Top Excellence Award.
-- Co-founder and former lead of NIMDA Security.
+### GitHub
 
 <div align="center">
 
