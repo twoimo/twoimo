@@ -7,7 +7,14 @@
 </picture>
 
 <br />
-<br />
+
+<table>
+  <tr>
+    <td align="center"><sub>BUILDING</sub><br /><b>Tzudong</b></td>
+    <td align="center"><sub>FOCUS</sub><br /><b>AI/Web · CV</b></td>
+    <td align="center"><sub>BASE</sub><br /><b>Security</b></td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -17,5 +24,15 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5B21B6?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+<samp>
+  <a href="https://github.com/twoimo?tab=repositories">repos</a>
+  ·
+  <a href="https://github.com/twoimo/tzudong">tzudong</a>
+  ·
+  <a href="https://www.linkedin.com/in/twoimo">linkedin</a>
+  ·
+  <a href="mailto:twoimo@dgu.ac.kr">email</a>
+</samp>
 
 </div>
