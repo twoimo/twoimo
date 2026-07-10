@@ -22,10 +22,9 @@
 
 ## About me
 
-- Building **end-to-end AI products** where models meet real users
-- Working across **computer vision, data pipelines, full-stack web, and deployment**
+- Building **end-to-end AI products** across computer vision, data, and full-stack engineering
 - Currently shipping **[Tzudong Map](https://github.com/twoimo/tzudong)** and exploring agent-assisted product workflows
-- I like practical systems: measurable, maintainable, and ready to ship
+- Focused on measurable, maintainable systems that move from prototype to production
 
 ---
 
@@ -33,12 +32,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [Tzudong Map](https://github.com/twoimo/tzudong)
 A map-first restaurant product that turns places featured in Tzuyang videos into searchable discovery, community, admin, storyboard, and evidence-pipeline workflows.
 
-**Impact:** Live product · 5 product surfaces · 10-cut storyboard
+**Scope:** Live service · 5 product surfaces · 10-cut AI storyboard
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=E2E8F0)
@@ -46,7 +45,9 @@ A map-first restaurant product that turns places featured in Tzuyang videos into
 [![Live](https://img.shields.io/badge/Live-tzudong.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://tzudong.app)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 ### [Snapish](https://github.com/SnapishAgent/Snapish)
 A YOLOv11-powered web service that recognizes 17 fish and marine species and explains closed-season and minimum-size rules, with catch records and fishing-spot data.
@@ -69,19 +70,12 @@ A YOLOv11-powered web service that recognizes 17 fish and marine species and exp
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=38BDF8)
+![OpenCV](https://img.shields.io/badge/OpenCV-4F46E5?style=for-the-badge&logo=opencv&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![Java](https://img.shields.io/badge/Java_17-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=34D399)
 ![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
-![Vue.js](https://img.shields.io/badge/Vue.js-4F46E5?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=E2E8F0)
-![Supabase](https://img.shields.io/badge/Supabase-4F46E5?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)
 ![Docker](https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=38BDF8)
-![PyTorch](https://img.shields.io/badge/PyTorch-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
 
 </div>
 
