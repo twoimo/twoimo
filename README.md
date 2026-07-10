@@ -60,36 +60,6 @@ A YOLOv11-powered web service that recognizes 17 fish and marine species and exp
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [NIMDA Security](https://github.com/twoimo/Nimda)
-A production platform for programming contests, submissions and scoreboards, community boards, member workflows, notifications, rewards, and administration.
-
-**Operations:** Docker Compose · Nginx · immutable images · validated Blue/Green promotion
-
-![Java](https://img.shields.io/badge/Java_17-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-0F172A?style=flat-square&logo=springboot&logoColor=34D399)
-![React](https://img.shields.io/badge/React_19-0F172A?style=flat-square&logo=react&logoColor=38BDF8)
-[![Live](https://img.shields.io/badge/Live-nimda.kr-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://nimda.kr)
-
-</td>
-<td width="50%" valign="top">
-
-### [Ilsan Investment Insight](https://github.com/SnapishAgent/IlsanInsight)
-A data-driven study of the value gap between Bundang and Ilsan, combining transaction, infrastructure, time-series, and spatial analysis.
-
-**My role:** Data analysis and visualization
-
-**Scope:** 17-day analysis · transaction, infrastructure, time-series, and spatial data
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=818CF8)
-![Folium](https://img.shields.io/badge/Folium-0F172A?style=flat-square&logo=leaflet&logoColor=34D399)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-0F172A?style=flat-square&logo=scikitlearn&logoColor=F59E0B)
-
-</td>
-</tr>
 </table>
 
 ---
