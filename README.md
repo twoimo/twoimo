@@ -38,7 +38,7 @@
 ### [Tzudong Map](https://github.com/twoimo/tzudong)
 A map-first restaurant product that turns places featured in Tzuyang videos into searchable discovery, community, admin, storyboard, and evidence-pipeline workflows.
 
-**Impact:** Live at tzudong.app · 5 integrated product surfaces · 10-cut storyboard workflow · v1.2.3
+**Impact:** Live product · 5 product surfaces · 10-cut storyboard
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
 ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=E2E8F0)
