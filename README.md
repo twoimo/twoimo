@@ -63,13 +63,15 @@ A YOLOv11-powered web service that recognizes 17 fish and marine species and exp
 <tr>
 <td width="50%" valign="top">
 
-### [NIMDA Security](https://github.com/twoimo/nimda-korea)
-A developer community platform for knowledge sharing, study groups, project collaboration, recruiting, notifications, and calendar workflows.
+### [NIMDA Security](https://github.com/twoimo/Nimda)
+A production platform for programming contests, submissions and scoreboards, community boards, member workflows, notifications, rewards, and administration.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
-![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=34D399)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+**Operations:** Docker Compose · Nginx · immutable images · validated Blue/Green promotion
+
+![Java](https://img.shields.io/badge/Java_17-0F172A?style=flat-square&logo=openjdk&logoColor=38BDF8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-0F172A?style=flat-square&logo=springboot&logoColor=34D399)
+![React](https://img.shields.io/badge/React_19-0F172A?style=flat-square&logo=react&logoColor=38BDF8)
+[![Live](https://img.shields.io/badge/Live-nimda.kr-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://nimda.kr)
 
 </td>
 <td width="50%" valign="top">
@@ -98,6 +100,8 @@ A data-driven study of the value gap between Bundang and Ilsan, combining transa
 
 ![Python](https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![Java](https://img.shields.io/badge/Java_17-4F46E5?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=34D399)
 ![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4F46E5?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -119,7 +123,7 @@ A data-driven study of the value gap between Bundang and Ilsan, combining transa
 Product      Tzudong Map: discovery, community, admin, and content tools
 Vision       Object detection and image-driven user experiences
 Data         Analysis pipelines that turn raw evidence into decisions
-Engineering  Full-stack systems that survive the jump from demo to product
+Engineering  Full-stack systems that survive the jump from demo to production
 ```
 
 ---
