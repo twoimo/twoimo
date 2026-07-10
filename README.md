@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="TWOIMO — AI products, computer vision, and full-stack engineering" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20products%20from%20pixels%20to%20production&descAlignY=58&descSize=18" />
 
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Product+Builder;Computer+Vision+%26+Full-Stack+Engineer;Data+to+Decisions.+Models+to+Products.;Build.+Measure.+Ship.)](https://git.io/typing-svg)
 
-**AI Product Builder · Computer Vision · Full-Stack Engineering**
-
-<a href="https://github.com/twoimo?tab=followers">Followers</a>
-·
-<a href="https://github.com/twoimo?tab=repositories">Repositories</a>
-·
-<a href="https://github.com/twoimo?tab=stars">Stars</a>
-·
-<a href="https://github.com/twoimo">
-  <img src="https://hits.sh/github.com/twoimo.svg?style=flat-square&label=PROFILE%20VIEWS&color=4F46E5&labelColor=020617" alt="Profile views" />
-</a>
+[![Followers](https://img.shields.io/github/followers/twoimo?style=for-the-badge&logo=github&color=4F46E5&labelColor=020617)](https://github.com/twoimo?tab=followers)
+[![Stars](https://img.shields.io/github/stars/twoimo?style=for-the-badge&logo=github&color=2563EB&labelColor=020617)](https://github.com/twoimo?tab=stars)
+[![Profile Views](https://hits.sh/github.com/twoimo.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4F46E5&labelColor=020617)](https://github.com/twoimo)
 
 **I turn data, models, and product ideas into things people can actually use.**
 
@@ -27,7 +19,7 @@
 - Building **end-to-end AI products** where models meet real users
 - Working across **computer vision, data pipelines, full-stack web, and deployment**
 - Currently shipping **[Tzudong Map](https://github.com/twoimo/tzudong)** and exploring agent-assisted product workflows
-- I prefer practical systems: measurable, maintainable, and ready to ship
+- I like practical systems: measurable, maintainable, and ready to ship
 
 ---
 
@@ -40,15 +32,21 @@
 ### [Tzudong Map](https://github.com/twoimo/tzudong)
 A map-first restaurant product that turns places featured in Tzuyang videos into searchable discovery, community, admin, storyboard, and evidence-pipeline workflows.
 
-`TypeScript` · `Next.js` · `Supabase` · **[Live](https://tzudong.app)**
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=E2E8F0)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=34D399)
+[![Live](https://img.shields.io/badge/Live-tzudong.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://tzudong.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Snapish](https://github.com/twoimo/Snapish)
-A YOLOv11-powered service that recognizes 17 fish and marine species and explains closed-season and minimum-size rules.
+A YOLOv11-powered web service that recognizes 17 fish and marine species and explains closed-season and minimum-size rules, with catch records and fishing-spot data.
 
-`Python` · `YOLOv11` · `Flask` · `Vue.js`
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-0F172A?style=flat-square&logo=ultralytics&logoColor=818CF8)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=E2E8F0)
+![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
 </td>
 </tr>
@@ -56,17 +54,23 @@ A YOLOv11-powered service that recognizes 17 fish and marine species and explain
 <td width="50%" valign="top">
 
 ### [NIMDA Security](https://github.com/twoimo/nimda-korea)
-A developer community platform for knowledge sharing, study groups, collaboration, recruiting, notifications, and calendars.
+A developer community platform for knowledge sharing, study groups, project collaboration, recruiting, notifications, and calendar workflows.
 
-`TypeScript` · `React` · `Supabase` · `Tailwind CSS`
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=38BDF8)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=34D399)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Ilsan Investment Insight](https://github.com/twoimo/Ilsan-Investment-Insight)
-A data-driven study of the value gap between Bundang and Ilsan using transaction, infrastructure, time-series, and spatial analysis.
+A data-driven study of the value gap between Bundang and Ilsan, combining transaction, infrastructure, time-series, and spatial analysis.
 
-`Python` · `Pandas` · `Folium` · `DBSCAN`
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=818CF8)
+![Folium](https://img.shields.io/badge/Folium-0F172A?style=flat-square&logo=leaflet&logoColor=34D399)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-0F172A?style=flat-square&logo=scikitlearn&logoColor=F59E0B)
 
 </td>
 </tr>
@@ -74,9 +78,24 @@ A data-driven study of the value gap between Bundang and Ilsan using transaction
 
 ---
 
-## Core stack
+## Stack & tools
 
-`Python` · `TypeScript` · `Next.js` · `React` · `Vue.js` · `Flask` · `Supabase` · `MySQL` · `Docker` · `OpenCV` · `PyTorch` · `GitHub Actions`
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
+![Vue.js](https://img.shields.io/badge/Vue.js-4F46E5?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=E2E8F0)
+![Supabase](https://img.shields.io/badge/Supabase-4F46E5?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=38BDF8)
+![PyTorch](https://img.shields.io/badge/PyTorch-4F46E5?style=for-the-badge&logo=pytorch&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
+
+</div>
 
 ---
 
@@ -91,6 +110,19 @@ Engineering  Full-stack systems that survive the jump from demo to product
 
 ---
 
+## GitHub activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twoimo&bg_color=020617&color=BAE6FD&line=6366F1&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=twoimo&show_icons=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&ring_color=6366F1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoimo&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0" />
+
+</div>
+
+---
+
 ## Contribution snake
 
 <div align="center">
@@ -98,10 +130,18 @@ Engineering  Full-stack systems that survive the jump from demo to product
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" width="100%" loading="lazy" decoding="async" alt="GitHub contribution snake" />
+  <img alt="GitHub contribution snake" src="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br />
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow_the_builds-020617?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/twoimo)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=110&section=footer" />
 
 **See it clearly. Build it fully. Ship it for real.**
 
