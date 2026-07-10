@@ -98,8 +98,12 @@ Engineering  Full-stack systems that survive the jump from demo to production
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twoimo&bg_color=020617&color=BAE6FD&line=6366F1&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=twoimo&show_icons=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&ring_color=6366F1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoimo&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0" />
+<a href="https://github.com/twoimo">
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" loading="lazy" decoding="async" />
+</a>
+<a href="https://github.com/twoimo?tab=repositories">
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" loading="lazy" decoding="async" />
+</a>
 
 </div>
 
