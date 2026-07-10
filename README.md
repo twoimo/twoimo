@@ -46,8 +46,12 @@ A map-first restaurant product that turns places featured in Tzuyang videos into
 </td>
 <td width="50%" valign="top">
 
-### [Snapish](https://github.com/twoimo/Snapish)
+### [Snapish](https://github.com/SnapishAgent/Snapish)
 A YOLOv11-powered web service that recognizes 17 fish and marine species and explains closed-season and minimum-size rules, with catch records and fishing-spot data.
+
+**My contribution:** YOLOv11 model integration and augmentation, 17-class label mapping, and product-facing AI integration.
+
+**Impact:** 17 species · 1,500+ training images · 88% mAP50
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-0F172A?style=flat-square&logo=ultralytics&logoColor=818CF8)
@@ -70,8 +74,12 @@ A developer community platform for knowledge sharing, study groups, project coll
 </td>
 <td width="50%" valign="top">
 
-### [Ilsan Investment Insight](https://github.com/twoimo/Ilsan-Investment-Insight)
+### [Ilsan Investment Insight](https://github.com/SnapishAgent/IlsanInsight)
 A data-driven study of the value gap between Bundang and Ilsan, combining transaction, infrastructure, time-series, and spatial analysis.
+
+**My role:** Data analysis and visualization
+
+**Scope:** 17-day analysis · transaction, infrastructure, time-series, and spatial data
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=818CF8)
@@ -143,9 +151,14 @@ Engineering  Full-stack systems that survive the jump from demo to product
 
 ---
 
+## Let's build something useful
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow_the_builds-020617?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/twoimo)
+Open to opportunities and collaborations in **AI Product Engineering, Computer Vision, and Full-Stack Development**.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/twoimo)
+[![Live Product](https://img.shields.io/badge/Explore_Tzudong_Map-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://tzudong.app)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=110&section=footer" />
 
