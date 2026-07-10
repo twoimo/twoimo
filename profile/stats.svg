@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="165" viewBox="0 0 495 165" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Local fallback card while GitHub Actions generates the latest statistics.</desc>
+  <rect width="495" height="165" rx="10" fill="#020617"/>
+  <rect x="0.5" y="0.5" width="494" height="164" rx="9.5" fill="none" stroke="#1E293B"/>
+  <text x="24" y="36" fill="#38BDF8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700">GitHub Stats</text>
+  <text x="24" y="68" fill="#E2E8F0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">Generating the latest card locally via GitHub Actions…</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="600">
+    <rect x="24" y="96" width="118" height="34" rx="7" fill="#0F172A"/>
+    <text x="83" y="117" fill="#BAE6FD" text-anchor="middle">COMMITS</text>
+    <rect x="154" y="96" width="132" height="34" rx="7" fill="#0F172A"/>
+    <text x="220" y="117" fill="#C7D2FE" text-anchor="middle">PULL REQUESTS</text>
+    <rect x="298" y="96" width="164" height="34" rx="7" fill="#0F172A"/>
+    <text x="380" y="117" fill="#BAE6FD" text-anchor="middle">CONTRIBUTIONS</text>
+  </g>
+  <circle cx="466" cy="31" r="5" fill="#6366F1"/>
+  <circle cx="449" cy="31" r="5" fill="#38BDF8"/>
+</svg>
