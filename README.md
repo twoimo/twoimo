@@ -49,8 +49,6 @@ A map-first restaurant product that turns places featured in Tzuyang videos into
 ### [Snapish](https://github.com/SnapishAgent/Snapish)
 A YOLOv11-powered web service that recognizes 17 fish and marine species and explains closed-season and minimum-size rules, with catch records and fishing-spot data.
 
-**My contribution:** YOLOv11 model integration and augmentation, 17-class label mapping, and product-facing AI integration.
-
 **Impact:** 17 species · 1,500+ training images · 88% mAP50
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
