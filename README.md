@@ -6,7 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/twoimo?style=for-the-badge&logo=github&color=4F46E5&labelColor=020617)](https://github.com/twoimo?tab=followers)
 [![Stars](https://img.shields.io/github/stars/twoimo?style=for-the-badge&logo=github&color=2563EB&labelColor=020617)](https://github.com/twoimo?tab=stars)
-[![Profile Views](https://komarev.com/ghpvc/?username=twoimo&style=for-the-badge&color=4F46E5)](https://github.com/twoimo)
+[![Profile Views](https://hits.sh/github.com/twoimo.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4F46E5&labelColor=020617)](https://github.com/twoimo)
 
 **I turn data, models, and product ideas into things people can actually use.**
 
