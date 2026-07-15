@@ -81,16 +81,14 @@ A YOLOv11-powered web service that recognizes 17 fish and marine species and exp
 
 ---
 
-## AI coding activity
+## Current signal
 
-<!-- Adapted from Baek-Seunghyun/ai-coding-usage-card under the MIT License. -->
-<a href="https://github.com/twoimo/twoimo/blob/main/scripts/AI_USAGE_CARD.md">
-  <img width="100%" src="./profile/ai-usage-combo.svg" alt="Self-hosted AI coding usage card" loading="lazy" decoding="async" />
-</a>
-
-<div align="center">
-  <sub>Local-first · self-hosted · daily SVG sync · usage logs stay on device</sub>
-</div>
+```text
+Product      Tzudong Map: discovery, community, admin, and content tools
+Vision       Object detection and image-driven user experiences
+Data         Analysis pipelines that turn raw evidence into decisions
+Engineering  Full-stack systems that survive the jump from demo to production
+```
 
 ---
 
