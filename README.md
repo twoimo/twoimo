@@ -65,18 +65,3 @@
 </picture>
 
 </div>
-
-## Let's build something useful
-
-<div align="center">
-
-Open to opportunities and collaborations in **AI Product Engineering, Computer Vision, and Full-Stack Development**.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/twoimo)
-[![Live Product](https://img.shields.io/badge/Explore_Tzudong_Map-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://tzudong.app)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=110&section=footer" alt="TWOIMO profile footer" loading="lazy" decoding="async" />
-
-**See it clearly. Build it fully. Ship it for real.**
-
-</div>
