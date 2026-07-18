@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - .github/workflows/profile-cards.yml
+      - scripts/generate-profile-cards.mjs
 
 concurrency:
   group: profile-cards
@@ -23,23 +24,18 @@ jobs:
 
     steps:
       - name: Check out profile repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub stats card
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0&ring_color=6366F1&include_all_commits=true"
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: 20
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0"
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate lightweight local cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/generate-profile-cards.mjs
 
       - name: Commit refreshed cards
         shell: bash
@@ -51,5 +47,5 @@ jobs:
             echo "Profile cards are already current."
             exit 0
           fi
-          git commit -m "chore: refresh profile cards"
+          git commit -m "chore: refresh lightweight profile cards"
           git push
