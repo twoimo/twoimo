@@ -20,21 +20,15 @@
 
 </div>
 
----
-
 ## About me
 
 - Building **end-to-end AI products** across computer vision, data, and full-stack engineering
 - Currently shipping **[Tzudong Map](https://github.com/twoimo/tzudong)** and exploring agent-assisted product workflows
 - Focused on measurable, maintainable systems that move from prototype to production
 
----
-
 ## Featured builds
 
 <p align="center"><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong.svg" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish.svg" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a></p>
-
----
 
 ## Stack & tools
 
@@ -50,8 +44,6 @@
 
 </div>
 
----
-
 ## GitHub activity
 
 <div align="center">
@@ -61,8 +53,6 @@
 </a>
 
 </div>
-
----
 
 ## Contribution snake
 
@@ -75,8 +65,6 @@
 </picture>
 
 </div>
-
----
 
 ## Let's build something useful
 
