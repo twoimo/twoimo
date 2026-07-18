@@ -22,9 +22,9 @@
   <rect class="card" x="0.5" y="0.5" width="422" height="235"/>
   <text class="title" x="18" y="40">Tzudong Map</text>
   <text class="body" x="18" y="67">
-    <tspan x="18" dy="0">A map-first restaurant product for places featured in Tzuyang</tspan>
-    <tspan x="18" dy="19">videos, with discovery, community, admin, storyboard, and</tspan>
-    <tspan x="18" dy="19">evidence-pipeline workflows for mobile users and operators.</tspan>
+    <tspan x="18" dy="0" textLength="387" lengthAdjust="spacing">A map-first restaurant product that turns featured video evidence into</tspan>
+    <tspan x="18" dy="19" textLength="387" lengthAdjust="spacing">a searchable restaurant map with discovery, community, admin tools,</tspan>
+    <tspan x="18" dy="19" textLength="387" lengthAdjust="spacing">storyboard creation, and a validated evidence-processing pipeline.</tspan>
   </text>
   <text class="label" x="18" y="133">Scope:</text>
   <text class="value" x="65" y="133">Live service · 5 product surfaces · 10-cut AI storyboard</text>
