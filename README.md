@@ -28,7 +28,7 @@
 
 ## Featured builds
 
-<p align="center"><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong.svg?v=fill-width-20260718" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish.svg?v=fill-width-20260718" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a></p>
+<p align="center"><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong.svg?v=justified-width-20260718" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish.svg?v=justified-width-20260718" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a></p>
 
 ## Stack & tools
 
