@@ -30,38 +30,17 @@
 
 ## Featured builds
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<picture>
+  <source media="(max-width: 640px)" srcset="./profile/featured-builds-mobile.svg" />
+  <img src="./profile/featured-builds-desktop.svg" width="100%" alt="Featured builds: Tzudong Map and Snapish" />
+</picture>
 
-### [Tzudong Map](https://github.com/twoimo/tzudong)
-A map-first restaurant product that turns places featured in Tzuyang videos into searchable discovery, community, admin, storyboard, and evidence-pipeline workflows.
+<div align="center">
 
-**Scope:** Live service · 5 product surfaces · 10-cut AI storyboard
+[![Tzudong Map](https://img.shields.io/badge/Open_Tzudong_Map-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/twoimo/tzudong)
+[![Snapish](https://img.shields.io/badge/Open_Snapish-020617?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/SnapishAgent/Snapish)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=E2E8F0)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=34D399)
-[![Live](https://img.shields.io/badge/Live-tzudong.app-4F46E5?style=flat-square&logo=vercel&logoColor=white)](https://tzudong.app)
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-### [Snapish](https://github.com/SnapishAgent/Snapish)
-A YOLOv11-powered web service that recognizes 17 fish and marine species and explains closed-season and minimum-size rules, with catch records and fishing-spot data.
-
-**Impact:** 17 species · 1,500+ training images · 88% mAP50
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-0F172A?style=flat-square&logo=ultralytics&logoColor=818CF8)
-![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=E2E8F0)
-![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -78,17 +57,6 @@ A YOLOv11-powered web service that recognizes 17 fish and marine species and exp
 ![Docker](https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
----
-
-## Current signal
-
-```text
-Product      Tzudong Map: discovery, community, admin, and content tools
-Vision       Object detection and image-driven user experiences
-Data         Analysis pipelines that turn raw evidence into decisions
-Engineering  Full-stack systems that survive the jump from demo to production
-```
 
 ---
 
