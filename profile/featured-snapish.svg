@@ -22,9 +22,9 @@
   <rect class="card" x="0.5" y="0.5" width="422" height="235"/>
   <text class="title" x="18" y="40">Snapish</text>
   <text class="body" x="18" y="67">
-    <tspan x="18" dy="0">A YOLOv11-powered service that recognizes 17 fish and marine</tspan>
-    <tspan x="18" dy="19">species, explains closed-season and minimum-size fishing rules,</tspan>
-    <tspan x="18" dy="19">and combines catch records, fishing spots, and rule guidance.</tspan>
+    <tspan x="18" dy="0" textLength="387" lengthAdjust="spacing">A YOLOv11-powered product that recognizes 17 fish and marine species,</tspan>
+    <tspan x="18" dy="19" textLength="387" lengthAdjust="spacing">explains closed-season and minimum-size rules, and supports catch logs,</tspan>
+    <tspan x="18" dy="19" textLength="387" lengthAdjust="spacing">fishing-spot discovery, and practical regulation guidance in one app.</tspan>
   </text>
   <text class="label" x="18" y="133">Impact:</text>
   <text class="value" x="68" y="133">17 species · 1,500+ training images · 88% mAP50</text>
