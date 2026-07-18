@@ -32,14 +32,36 @@
 
 ## Featured builds
 
-<p align="center">
-  <a href="https://github.com/twoimo/tzudong">
-    <img src="./profile/featured-tzudong.svg" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" />
-  </a>
-  <a href="https://github.com/SnapishAgent/Snapish">
-    <img src="./profile/featured-snapish.svg" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### [Tzudong Map](https://github.com/twoimo/tzudong)
+
+A map-first restaurant product for places featured in Tzuyang videos, with discovery, community, admin, storyboard, and evidence tools.
+
+**Scope:** Live service · 5 surfaces · 10-cut AI storyboard
+
+<kbd>TypeScript</kbd> <kbd>Next.js</kbd> <kbd>Supabase</kbd> <kbd>Live app</kbd>
+
+[Open repository ↗](https://github.com/twoimo/tzudong)
+
+</td>
+<td width="50%" valign="top">
+
+### [Snapish](https://github.com/SnapishAgent/Snapish)
+
+A YOLOv11-powered service that recognizes 17 fish and marine species and explains closed-season and minimum-size fishing rules.
+
+**Impact:** 17 species · 1,500+ images · 88% mAP50
+
+<kbd>Python</kbd> <kbd>YOLOv11</kbd> <kbd>Flask</kbd> <kbd>Vue.js</kbd>
+
+[Open repository ↗](https://github.com/SnapishAgent/Snapish)
+
+</td>
+</tr>
+</table>
 
 ---
 
