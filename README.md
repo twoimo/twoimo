@@ -37,12 +37,6 @@
   <img src="./profile/featured-builds-desktop.svg" width="100%" alt="Featured builds: Tzudong Map and Snapish" loading="lazy" decoding="async" />
 </picture>
 
-<p align="center">
-  <a href="https://github.com/twoimo/tzudong"><strong>Tzudong Map &#8599;</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/SnapishAgent/Snapish"><strong>Snapish &#8599;</strong></a>
-</p>
-
 ---
 
 ## Stack & tools
