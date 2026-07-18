@@ -20,25 +20,25 @@
     }
   </style>
   <rect class="card" x="0.5" y="0.5" width="422" height="224"/>
-  <text class="title" x="18" y="31">Snapish</text>
-  <text class="body" x="18" y="58">
+  <text class="title" x="18" y="27">Snapish</text>
+  <text class="body" x="18" y="54">
     <tspan x="18" dy="0">A YOLOv11-powered service that recognizes 17 fish</tspan>
     <tspan x="18" dy="19">and marine species and explains closed-season and</tspan>
     <tspan x="18" dy="19">minimum-size fishing rules.</tspan>
   </text>
-  <text class="label" x="18" y="124">Impact:</text>
-  <text class="value" x="68" y="124">17 species · 1,500+ images · 88% mAP50</text>
+  <text class="label" x="18" y="120">Impact:</text>
+  <text class="value" x="68" y="120">17 species · 1,500+ images · 88% mAP50</text>
 
-  <rect class="pill" x="18" y="141" rx="4" width="64" height="25"/>
-  <text class="pillText" x="50" y="158" text-anchor="middle">Python</text>
-  <rect class="pill" x="90" y="141" rx="4" width="78" height="25"/>
-  <text class="pillText" x="129" y="158" text-anchor="middle">YOLOv11</text>
-  <rect class="pill" x="176" y="141" rx="4" width="58" height="25"/>
-  <text class="pillText" x="205" y="158" text-anchor="middle">Flask</text>
-  <rect class="pill" x="242" y="141" rx="4" width="90" height="25"/>
-  <text class="pillText" x="287" y="158" text-anchor="middle">Vue.js</text>
+  <rect class="pill" x="18" y="137" rx="4" width="64" height="25"/>
+  <text class="pillText" x="50" y="154" text-anchor="middle">Python</text>
+  <rect class="pill" x="90" y="137" rx="4" width="78" height="25"/>
+  <text class="pillText" x="129" y="154" text-anchor="middle">YOLOv11</text>
+  <rect class="pill" x="176" y="137" rx="4" width="58" height="25"/>
+  <text class="pillText" x="205" y="154" text-anchor="middle">Flask</text>
+  <rect class="pill" x="242" y="137" rx="4" width="90" height="25"/>
+  <text class="pillText" x="287" y="154" text-anchor="middle">Vue.js</text>
 
-  <line x1="18" y1="181" x2="405" y2="181" stroke="#30363d" stroke-opacity="0.45"/>
-  <text class="link" x="18" y="205">github.com/SnapishAgent/Snapish</text>
-  <text class="link" x="405" y="205" text-anchor="end">Open repository &#8599;</text>
+  <line x1="18" y1="177" x2="405" y2="177" stroke="#30363d" stroke-opacity="0.45"/>
+  <text class="link" x="18" y="201">github.com/SnapishAgent/Snapish</text>
+  <text class="link" x="405" y="201" text-anchor="end">Open repository &#8599;</text>
 </svg>
