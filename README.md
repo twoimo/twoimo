@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20products%20from%20pixels%20to%20production&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20products%20from%20pixels%20to%20production&descAlignY=58&descSize=18" alt="TWOIMO — AI products from pixels to production" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Product+Builder;Computer+Vision+%26+Full-Stack+Engineer;Data+to+Decisions.+Models+to+Products.;Build.+Measure.+Ship.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Product+Builder;Computer+Vision+%26+Full-Stack+Engineer;Data+to+Decisions.+Models+to+Products.;Build.+Measure.+Ship." alt="AI Product Builder · Computer Vision and Full-Stack Engineer" />
+</a>
 
 <a href="https://github.com/twoimo">
   <img src="https://hits.sh/github.com/twoimo.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4F46E5&labelColor=020617" alt="Profile Views" height="28" loading="eager" decoding="async" fetchpriority="high" />
@@ -30,17 +32,14 @@
 
 ## Featured builds
 
-<picture>
-  <source media="(max-width: 640px)" srcset="./profile/featured-builds-mobile.svg" />
-  <img src="./profile/featured-builds-desktop.svg" width="100%" alt="Featured builds: Tzudong Map and Snapish" />
-</picture>
-
-<div align="center">
-
-[![Tzudong Map](https://img.shields.io/badge/Open_Tzudong_Map-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/twoimo/tzudong)
-[![Snapish](https://img.shields.io/badge/Open_Snapish-020617?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/SnapishAgent/Snapish)
-
-</div>
+<p align="center">
+  <a href="https://github.com/twoimo/tzudong">
+    <img src="./profile/featured-tzudong.svg" width="350" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" />
+  </a>
+  <a href="https://github.com/SnapishAgent/Snapish">
+    <img src="./profile/featured-snapish.svg" width="350" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" />
+  </a>
+</p>
 
 ---
 
@@ -64,7 +63,9 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twoimo&bg_color=020617&color=BAE6FD&line=6366F1&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=twoimo&bg_color=020617&color=BAE6FD&line=6366F1&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true" alt="TWOIMO GitHub activity graph" loading="lazy" decoding="async" />
+</a>
 
 </div>
 
@@ -77,7 +78,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://cdn.jsdelivr.net/gh/twoimo/twoimo@output/github-contribution-grid-snake.svg" loading="lazy" decoding="async" />
 </picture>
 
 </div>
@@ -93,7 +94,7 @@ Open to opportunities and collaborations in **AI Product Engineering, Computer V
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/twoimo)
 [![Live Product](https://img.shields.io/badge/Explore_Tzudong_Map-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://tzudong.app)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=110&section=footer" alt="TWOIMO profile footer" loading="lazy" decoding="async" />
 
 **See it clearly. Build it fully. Ship it for real.**
 
