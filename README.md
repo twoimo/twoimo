@@ -32,13 +32,15 @@
 
 ## Featured builds
 
+<picture>
+  <source media="(max-width: 640px)" srcset="./profile/featured-builds-mobile.svg" />
+  <img src="./profile/featured-builds-desktop.svg" width="100%" alt="Featured builds: Tzudong Map and Snapish" loading="lazy" decoding="async" />
+</picture>
+
 <p align="center">
-  <a href="https://github.com/twoimo/tzudong">
-    <img src="./profile/featured-tzudong.svg" width="350" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" />
-  </a>
-  <a href="https://github.com/SnapishAgent/Snapish">
-    <img src="./profile/featured-snapish.svg" width="350" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" />
-  </a>
+  <a href="https://github.com/twoimo/tzudong"><strong>Tzudong Map &#8599;</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/SnapishAgent/Snapish"><strong>Snapish &#8599;</strong></a>
 </p>
 
 ---
