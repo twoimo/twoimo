@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Featured builds</title>
+  <desc id="desc">Tzudong Map and Snapish displayed as two project cards.</desc>
+  <defs>
+    <linearGradient id="tzAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="snapAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .card{fill:#020617;stroke:#1E293B;stroke-width:2}
+    .title{font:700 29px 'Segoe UI',Ubuntu,sans-serif;fill:#E2E8F0}
+    .desc{font:400 19px 'Segoe UI',Ubuntu,sans-serif;fill:#CBD5E1}
+    .label{font:700 18px 'Segoe UI',Ubuntu,sans-serif;fill:#94A3B8}
+    .value{font:600 18px 'Segoe UI',Ubuntu,sans-serif;fill:#E2E8F0}
+    .pill{fill:#0F172A;stroke:#334155;stroke-width:1}
+    .pillText{font:600 16px 'Segoe UI',Ubuntu,sans-serif;fill:#BAE6FD}
+    .link{font:600 15px 'Segoe UI',Ubuntu,sans-serif;fill:#64748B}
+  </style>
+
+  <rect x="1" y="1" width="574" height="328" rx="16" class="card"/>
+  <rect x="625" y="1" width="574" height="328" rx="16" class="card"/>
+  <rect x="1" y="1" width="574" height="7" rx="4" fill="url(#tzAccent)"/>
+  <rect x="625" y="1" width="574" height="7" rx="4" fill="url(#snapAccent)"/>
+
+  <text x="31" y="53" class="title">Tzudong Map</text>
+  <text x="31" y="89" class="desc">A map-first restaurant product turning mukbang video</text>
+  <text x="31" y="116" class="desc">evidence into discovery, community, admin, storyboard,</text>
+  <text x="31" y="143" class="desc">and evidence-pipeline workflows.</text>
+  <text x="31" y="183" class="label">SCOPE</text>
+  <text x="105" y="183" class="value">Live service · 5 product surfaces · 10-cut AI storyboard</text>
+
+  <rect x="31" y="211" width="116" height="34" rx="17" class="pill"/>
+  <text x="89" y="233" text-anchor="middle" class="pillText">TypeScript</text>
+  <rect x="157" y="211" width="96" height="34" rx="17" class="pill"/>
+  <text x="205" y="233" text-anchor="middle" class="pillText">Next.js</text>
+  <rect x="263" y="211" width="112" height="34" rx="17" class="pill"/>
+  <text x="319" y="233" text-anchor="middle" class="pillText">Supabase</text>
+  <rect x="385" y="211" width="154" height="34" rx="17" fill="#312E81" stroke="#6366F1"/>
+  <text x="462" y="233" text-anchor="middle" class="pillText">tzudong.app</text>
+  <text x="31" y="286" class="link">github.com/twoimo/tzudong</text>
+
+  <text x="655" y="53" class="title">Snapish</text>
+  <text x="655" y="89" class="desc">A YOLOv11 web service recognizing 17 fish and marine</text>
+  <text x="655" y="116" class="desc">species while explaining closed-season and minimum-size</text>
+  <text x="655" y="143" class="desc">rules, catch records, and fishing-spot data.</text>
+  <text x="655" y="183" class="label">IMPACT</text>
+  <text x="740" y="183" class="value">17 species · 1,500+ images · 88% mAP50</text>
+
+  <rect x="655" y="211" width="94" height="34" rx="17" class="pill"/>
+  <text x="702" y="233" text-anchor="middle" class="pillText">Python</text>
+  <rect x="759" y="211" width="112" height="34" rx="17" class="pill"/>
+  <text x="815" y="233" text-anchor="middle" class="pillText">YOLOv11</text>
+  <rect x="881" y="211" width="86" height="34" rx="17" class="pill"/>
+  <text x="924" y="233" text-anchor="middle" class="pillText">Flask</text>
+  <rect x="977" y="211" width="96" height="34" rx="17" class="pill"/>
+  <text x="1025" y="233" text-anchor="middle" class="pillText">Vue.js</text>
+  <text x="655" y="286" class="link">github.com/SnapishAgent/Snapish</text>
+</svg>
