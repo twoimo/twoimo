@@ -28,8 +28,8 @@
 
 ## Featured builds
 
-<!-- GitHub applies #gh-light-mode-only / #gh-dark-mode-only to Markdown images. Keep the paired variants adjacent so only the active theme's two cards remain visible. -->
-[![Tzudong Map — light theme](./profile/featured-tzudong.svg?v=theme-20260810b#gh-light-mode-only)](https://github.com/twoimo/tzudong)[![Tzudong Map — dark theme](./profile/featured-tzudong-dark.svg?v=theme-20260810b#gh-dark-mode-only)](https://github.com/twoimo/tzudong)[![Snapish — light theme](./profile/featured-snapish.svg?v=theme-20260810b#gh-light-mode-only)](https://github.com/SnapishAgent/Snapish)[![Snapish — dark theme](./profile/featured-snapish-dark.svg?v=theme-20260810b#gh-dark-mode-only)](https://github.com/SnapishAgent/Snapish)
+<!-- GitHub-supported theme switching with <picture>. Each project has one <img>; <source> only swaps its asset, so light/dark variants can never render side-by-side. -->
+<p align="center"><a href="https://github.com/twoimo/tzudong"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/featured-tzudong-dark.svg?v=theme-20260810c" /><source media="(prefers-color-scheme: light)" srcset="./profile/featured-tzudong.svg?v=theme-20260810c" /><img width="423" align="top" src="./profile/featured-tzudong.svg?v=theme-20260810c" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></picture></a><a href="https://github.com/SnapishAgent/Snapish"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/featured-snapish-dark.svg?v=theme-20260810c" /><source media="(prefers-color-scheme: light)" srcset="./profile/featured-snapish.svg?v=theme-20260810c" /><img width="423" align="top" src="./profile/featured-snapish.svg?v=theme-20260810c" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></picture></a></p>
 
 ## Stack & tools
 
