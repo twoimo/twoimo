@@ -28,8 +28,8 @@
 
 ## Featured builds
 
-<!-- GitHub theme-aware cards. The gh-*-mode-only fragments follow GitHub's selected theme instead of relying on SVG-internal media queries. -->
-<p align="center"><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong.svg?v=theme-20260810#gh-light-mode-only" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong-dark.svg?v=theme-20260810#gh-dark-mode-only" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish.svg?v=theme-20260810#gh-light-mode-only" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish-dark.svg?v=theme-20260810#gh-dark-mode-only" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a></p>
+<!-- GitHub applies #gh-light-mode-only / #gh-dark-mode-only to Markdown images. Keep the paired variants adjacent so only the active theme's two cards remain visible. -->
+[![Tzudong Map — light theme](./profile/featured-tzudong.svg?v=theme-20260810b#gh-light-mode-only)](https://github.com/twoimo/tzudong)[![Tzudong Map — dark theme](./profile/featured-tzudong-dark.svg?v=theme-20260810b#gh-dark-mode-only)](https://github.com/twoimo/tzudong)[![Snapish — light theme](./profile/featured-snapish.svg?v=theme-20260810b#gh-light-mode-only)](https://github.com/SnapishAgent/Snapish)[![Snapish — dark theme](./profile/featured-snapish-dark.svg?v=theme-20260810b#gh-dark-mode-only)](https://github.com/SnapishAgent/Snapish)
 
 ## Stack & tools
 
@@ -39,7 +39,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=38BDF8)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4F46E5?style=for-the-badge&logo=opencv&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8)
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)
 ![Docker](https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white)
 
