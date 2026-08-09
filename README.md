@@ -28,7 +28,8 @@
 
 ## Featured builds
 
-<p align="center"><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong.svg?v=justified-width-20260718" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish.svg?v=justified-width-20260718" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a></p>
+<!-- GitHub theme-aware cards. The gh-*-mode-only fragments follow GitHub's selected theme instead of relying on SVG-internal media queries. -->
+<p align="center"><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong.svg?v=theme-20260810#gh-light-mode-only" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/twoimo/tzudong"><img width="423" align="top" src="./profile/featured-tzudong-dark.svg?v=theme-20260810#gh-dark-mode-only" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish.svg?v=theme-20260810#gh-light-mode-only" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a><a href="https://github.com/SnapishAgent/Snapish"><img width="423" align="top" src="./profile/featured-snapish-dark.svg?v=theme-20260810#gh-dark-mode-only" alt="Snapish — YOLOv11 fishing-rule recognition service" loading="lazy" decoding="async" /></a></p>
 
 ## Stack & tools
 
