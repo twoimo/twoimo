@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20Builder%20%26amp%3B%20E-commerce%20Automation&descAlignY=58&descSize=18" alt="TWOIMO — AI Builder & E-commerce Automation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20products%20and%20local%20agent%20workflows&descAlignY=58&descSize=18" alt="TWOIMO — AI products and local agent workflows" />
 
 <a href="https://git.io/typing-svg">
-  <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Builder+%26+E-commerce+Automation;Computer+Vision+%26+Full-Stack+Engineer;Data+to+Decisions.+Models+to+Products.;Build.+Measure.+Ship." alt="AI Builder & E-commerce Automation · Computer Vision and Full-Stack Engineer" />
+  <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+products.+Local+agent+workflows;Shipping+Tzudong+Map;Prototype+to+production;Build.+Measure.+Ship." alt="AI products. Local agent workflows. Shipping Tzudong Map." />
 </a>
 
 <a href="https://github.com/twoimo">
@@ -16,14 +16,14 @@
   <img src="https://img.shields.io/github/stars/twoimo?style=for-the-badge&logo=github&color=2563EB&labelColor=020617" alt="Stars" height="28" loading="eager" decoding="async" />
 </a>
 
-**AI Builder & E-commerce Automation**
+**I turn ideas into products people can actually use.**
 
 </div>
 
 ## About me
 
-- Building **end-to-end AI products** and **e-commerce automation** across computer vision, data, and full-stack engineering
-- Currently shipping **[Tzudong Map](https://github.com/twoimo/tzudong)** and exploring agent-assisted product workflows
+- Building **end-to-end AI products** across data, computer vision, and full-stack engineering
+- Currently shipping **[Tzudong Map](https://tzudong.app)** and running **local agent workflows** on Apple Silicon
 - Focused on measurable, maintainable systems that move from prototype to production
 
 ## Featured builds
