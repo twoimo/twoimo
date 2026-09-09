@@ -26,12 +26,6 @@
 - Building **local agents on macOS**, including **[openkakao-bot](https://github.com/twoimo/openkakao-bot)**
 - Prototype to production. Measure what ships.
 
-## Featured builds
-
-<p align="center"><a href="https://github.com/twoimo/tzudong"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/featured-tzudong-dark.svg?v=theme-20260810c" /><source media="(prefers-color-scheme: light)" srcset="./profile/featured-tzudong.svg?v=theme-20260810c" /><img width="846" align="top" src="./profile/featured-tzudong.svg?v=theme-20260810c" alt="Tzudong Map — live map-first restaurant product" loading="lazy" decoding="async" /></picture></a></p>
-
-<p align="center"><strong><a href="https://github.com/twoimo/openkakao-bot">openkakao-bot</a></strong> — local KakaoTalk auto-reply agent for macOS. Reads the desktop app’s local DB. No Kakao server login.</p>
-
 ## Stack & tools
 
 <div align="center">
@@ -42,16 +36,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8)
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)
 ![Docker](https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-## GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=twoimo&bg_color=020617&color=BAE6FD&line=6366F1&point=38BDF8&area=true&area_color=1E3A8A&hide_border=true" alt="TWOIMO GitHub activity graph" loading="lazy" decoding="async" />
-</a>
 
 </div>
 
