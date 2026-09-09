@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/github/stars/twoimo?style=for-the-badge&logo=github&color=2563EB&labelColor=020617" alt="Stars" height="28" loading="eager" decoding="async" />
 </a>
 
-**AI products. Local agents.**
-
 </div>
 
 ## About me
