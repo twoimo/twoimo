@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20products%20and%20local%20agent%20workflows&descAlignY=58&descSize=18" alt="TWOIMO — AI products and local agent workflows" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20products.%20Local%20agents.&descAlignY=58&descSize=18" alt="TWOIMO — AI products. Local agents." />
 
 <a href="https://git.io/typing-svg">
-  <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+products.+Local+agent+workflows;Shipping+Tzudong+Map;Prototype+to+production;Build.+Measure.+Ship." alt="AI products. Local agent workflows. Shipping Tzudong Map." />
+  <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+products.+Local+agents.;Shipping+Tzudong+Map;Prototype+to+production;Build.+Measure.+Ship." alt="AI products. Local agents. Shipping Tzudong Map." />
 </a>
 
 <a href="https://github.com/twoimo">
@@ -23,7 +23,7 @@
 ## About me
 
 - Building **end-to-end AI products** across data, computer vision, and full-stack engineering
-- Currently shipping **[Tzudong Map](https://tzudong.app)** and running **local agent workflows** on Apple Silicon
+- Currently shipping **[Tzudong Map](https://tzudong.app)** and running **local agents** on Apple Silicon
 - Focused on measurable, maintainable systems that move from prototype to production
 
 ## Featured builds
