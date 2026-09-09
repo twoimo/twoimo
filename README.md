@@ -6,16 +6,6 @@
   <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+products.+Local+agents.;Shipping+Tzudong+Map;Opinions+proven+by+shipped+code.;Build.+Measure.+Ship." alt="AI products. Local agents. Shipping Tzudong Map." />
 </a>
 
-<a href="https://github.com/twoimo">
-  <img src="https://hits.sh/github.com/twoimo.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4F46E5&labelColor=020617" alt="Profile Views" height="28" loading="eager" decoding="async" fetchpriority="high" />
-</a>
-<a href="https://github.com/twoimo?tab=followers">
-  <img src="https://img.shields.io/github/followers/twoimo?style=for-the-badge&logo=github&color=4F46E5&labelColor=020617" alt="Followers" height="28" loading="eager" decoding="async" />
-</a>
-<a href="https://github.com/twoimo?tab=stars">
-  <img src="https://img.shields.io/github/stars/twoimo?style=for-the-badge&logo=github&color=2563EB&labelColor=020617" alt="Stars" height="28" loading="eager" decoding="async" />
-</a>
-
 </div>
 
 ## About me
