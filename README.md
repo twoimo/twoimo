@@ -6,6 +6,14 @@
   <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+products.+Local+agents.;Shipping+Tzudong+Map;Opinions+proven+by+shipped+code.;Build.+Measure.+Ship." alt="AI products. Local agents. Shipping Tzudong Map." />
 </a>
 
+<br/>
+
+<a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-Pro-4F46E5?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT Pro" /></a>&nbsp;
+<a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-Heavy-4F46E5?style=flat-square&logo=x&logoColor=white" alt="Grok Heavy" /></a>&nbsp;
+<a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-Pro-4F46E5?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini Pro" /></a>&nbsp;
+<a href="https://kiro.dev"><img src="https://img.shields.io/badge/Kiro-Pro_Max-4F46E5?style=flat-square&logoColor=white" alt="Kiro Pro Max" /></a>&nbsp;
+<a href="https://github.com/lidge-jun/opencodex"><img src="https://img.shields.io/badge/OpenCodex-CLI-4F46E5?style=flat-square&logo=openai&logoColor=white" alt="OpenCodex CLI" /></a>
+
 </div>
 
 ## About me
