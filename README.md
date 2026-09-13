@@ -40,6 +40,12 @@
 <img src="https://img.shields.io/badge/M5_Max-4F46E5?style=flat-square&logo=apple&logoColor=white" alt="M5 Max" />
 <img src="https://img.shields.io/badge/128_GB-0F172A?style=flat-square&logoColor=38BDF8" alt="128 GB" />
 
+<br/><br/>
+
+**Local LLM**&nbsp;&nbsp;
+<a href="https://huggingface.co/ddalcu/Qwen3.8-Flash-Next-MLX-Serve-mixed-4-8bit"><img src="https://img.shields.io/badge/Qwen3.8_Flash_Next-4%2F8bit-4F46E5?style=flat-square&logo=huggingface&logoColor=white" alt="Qwen3.8 Flash Next 4/8bit" /></a>
+<img src="https://img.shields.io/badge/MLX-0F172A?style=flat-square&logo=apple&logoColor=white" alt="MLX" />
+
 </div>
 
 <details>
