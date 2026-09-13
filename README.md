@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-Pro-4F46E5?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT Pro" /></a>&nbsp;
+<a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-Pro_20x-4F46E5?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT Pro 20x" /></a>&nbsp;
 <a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-Super_Heavy-4F46E5?style=flat-square&logo=x&logoColor=white" alt="Grok Super Heavy" /></a>&nbsp;
 <a href="https://one.google.com/ai"><img src="https://img.shields.io/badge/Google_AI-Pro-4F46E5?style=flat-square&logo=google&logoColor=white" alt="Google AI Pro" /></a>&nbsp;
 <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-Go-4F46E5?style=flat-square&logo=go&logoColor=white" alt="OpenCode Go" /></a>&nbsp;
