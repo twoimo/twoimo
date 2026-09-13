@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Rust-0F172A?style=for-the-badge&logo=rust&logoColor=38BDF8" alt="Rust">
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript">
 <img src="https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" alt="Next.js">
-<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399" alt="Supabase">
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <br>
 <img src="https://img.shields.io/badge/MacBook_Pro-0F172A?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro">
