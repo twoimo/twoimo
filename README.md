@@ -25,42 +25,31 @@
 ## Stack & tools
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0F172A?style=for-the-badge&logo=rust&logoColor=38BDF8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![Next.js](https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)
-![Docker](https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white)
-
-<br/><br/>
-
-![MacBook Pro](https://img.shields.io/badge/MacBook_Pro-0F172A?style=for-the-badge&logo=apple&logoColor=white)
-![M5 Max](https://img.shields.io/badge/M5_Max-4F46E5?style=for-the-badge&logo=apple&logoColor=white)
-![128 GB](https://img.shields.io/badge/128_GB-0F172A?style=for-the-badge&logoColor=38BDF8)
-
-<br/>
-
-[![Qwen3.8 Flash Next 4/8bit](https://img.shields.io/badge/Qwen3.8_Flash_Next-4%2F8bit-4F46E5?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/ddalcu/Qwen3.8-Flash-Next-MLX-Serve-mixed-4-8bit)
-![MLX](https://img.shields.io/badge/MLX-0F172A?style=for-the-badge&logo=apple&logoColor=white)
-
+<img src="https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Rust-0F172A?style=for-the-badge&logo=rust&logoColor=38BDF8" alt="Rust">
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript">
+<img src="https://img.shields.io/badge/Next.js-4F46E5?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8" alt="Next.js">
+<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399" alt="Supabase">
+<img src="https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<br>
+<img src="https://img.shields.io/badge/MacBook_Pro-0F172A?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro">
+<img src="https://img.shields.io/badge/M5_Max-4F46E5?style=for-the-badge&logo=apple&logoColor=white" alt="M5 Max">
+<img src="https://img.shields.io/badge/128_GB-0F172A?style=for-the-badge&logoColor=38BDF8" alt="128 GB">
+<br>
+<a href="https://huggingface.co/ddalcu/Qwen3.8-Flash-Next-MLX-Serve-mixed-4-8bit"><img src="https://img.shields.io/badge/Qwen3.8_Flash_Next-4%2F8bit-4F46E5?style=for-the-badge&logo=huggingface&logoColor=white" alt="Qwen3.8 Flash Next 4/8bit"></a>
+<img src="https://img.shields.io/badge/MLX-0F172A?style=for-the-badge&logo=apple&logoColor=white" alt="MLX">
 </div>
 
 <details>
 <summary>&nbsp;<b>more specs</b></summary>
-<br/>
-
 <div align="center">
-
-![18-core CPU](https://img.shields.io/badge/CPU-18_core_(6P_+_12E)-4F46E5?style=for-the-badge&logo=apple&logoColor=white)
-![40-core GPU](https://img.shields.io/badge/GPU-40_core-0F172A?style=for-the-badge&logoColor=38BDF8)
-![128 GB unified memory](https://img.shields.io/badge/Unified_Memory-128_GB-4F46E5?style=for-the-badge&logoColor=white)
-![macOS 26.6](https://img.shields.io/badge/macOS-26.6-0F172A?style=for-the-badge&logo=apple&logoColor=white)
-![Metal 4](https://img.shields.io/badge/Metal-4-4F46E5?style=for-the-badge&logoColor=white)
-![Mac17,6](https://img.shields.io/badge/Model-Mac17,6-0F172A?style=for-the-badge&logoColor=38BDF8)
-
+<img src="https://img.shields.io/badge/CPU-18_core_(6P_+_12E)-4F46E5?style=for-the-badge&logo=apple&logoColor=white" alt="18-core CPU">
+<img src="https://img.shields.io/badge/GPU-40_core-0F172A?style=for-the-badge&logoColor=38BDF8" alt="40-core GPU">
+<img src="https://img.shields.io/badge/Unified_Memory-128_GB-4F46E5?style=for-the-badge&logoColor=white" alt="128 GB unified memory">
+<img src="https://img.shields.io/badge/macOS-26.6-0F172A?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 26.6">
+<img src="https://img.shields.io/badge/Metal-4-4F46E5?style=for-the-badge&logoColor=white" alt="Metal 4">
+<img src="https://img.shields.io/badge/Model-Mac17,6-0F172A?style=for-the-badge&logoColor=38BDF8" alt="Mac17,6">
 </div>
-
 </details>
 
 ## Contribution snake
