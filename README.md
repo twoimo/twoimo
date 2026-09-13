@@ -33,7 +33,31 @@
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399)
 ![Docker](https://img.shields.io/badge/Docker-4F46E5?style=for-the-badge&logo=docker&logoColor=white)
 
+<br/><br/>
+
+**Machine**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MacBook_Pro-0F172A?style=flat-square&logo=apple&logoColor=white" alt="MacBook Pro" />
+<img src="https://img.shields.io/badge/M5_Max-4F46E5?style=flat-square&logo=apple&logoColor=white" alt="M5 Max" />
+<img src="https://img.shields.io/badge/128_GB-0F172A?style=flat-square&logoColor=38BDF8" alt="128 GB" />
+
 </div>
+
+<details>
+<summary>&nbsp;<b>more specs</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CPU-18_core_(6P_+_12E)-4F46E5?style=flat-square&logo=apple&logoColor=white" alt="18-core CPU" />
+<img src="https://img.shields.io/badge/GPU-40_core-0F172A?style=flat-square&logoColor=38BDF8" alt="40-core GPU" />
+<img src="https://img.shields.io/badge/Unified_Memory-128_GB-4F46E5?style=flat-square&logoColor=white" alt="128 GB unified memory" />
+<img src="https://img.shields.io/badge/macOS-26.6-0F172A?style=flat-square&logo=apple&logoColor=white" alt="macOS 26.6" />
+<img src="https://img.shields.io/badge/Metal-4-4F46E5?style=flat-square&logoColor=white" alt="Metal 4" />
+<img src="https://img.shields.io/badge/Model-Mac17,6-0F172A?style=flat-square&logoColor=38BDF8" alt="Mac17,6" />
+
+</div>
+
+</details>
 
 ## Contribution snake
 
