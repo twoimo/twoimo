@@ -18,9 +18,9 @@
 
 ## About me
 
-- Shipping **[Tzudong Map](https://tzudong.app)** — a live map-first product
-- Building **local agents on macOS**, including **[openkakao-bot](https://github.com/twoimo/openkakao-bot)**
-- Philosophy: **Opinions proven by shipped code.**
+- Independent builder in Seoul. Shipping **[Tzudong Map](https://tzudong.app)** — a live map-first product.
+- Building **local agents on macOS**, including **[openkakao-bot](https://github.com/twoimo/openkakao-bot)**, an on-device KakaoTalk agent.
+- I would rather show a running system than a pitch. Philosophy: **Opinions proven by shipped code.**
 
 ## Stack & tools
 
