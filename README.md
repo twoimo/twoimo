@@ -44,6 +44,18 @@
       <td align="left" valign="middle"><strong><a href="https://bitcoin-cycle-atlas.twoimo.workers.dev/">Bitcoin Cycle Atlas</a></strong></td>
       <td align="left" valign="middle" nowrap width="780" title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research."><span title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research.">Source-linked charts for Bitcoin cycles, related markets...</span> <a href="https://github.com/twoimo/bitcoin-cycle-atlas">Source</a>.</td>
     </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Spark&nbsp;Universe</strong></td>
+      <td align="left" valign="middle" nowrap width="780" title="Shopify themes, product automation, and the Spark desktop app.">Shopify themes, product automation, and the Spark desktop app.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>RelayDeck</strong></td>
+      <td align="left" valign="middle" nowrap width="780" title="Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path."><span title="Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path.">Local macOS menu-bar relay into KakaoTalk, with receiver checks...</span></td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong>Cardnews&nbsp;&amp;&nbsp;Reels</strong></td>
+      <td align="left" valign="middle" nowrap width="780" title="Instagram card news and reels, from draft copy through review.">Instagram card news and reels, from draft copy through review.</td>
+    </tr>
   </tbody>
 </table>
 
