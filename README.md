@@ -27,34 +27,34 @@
 <table width="100%" cellpadding="12" cellspacing="0">
   <thead>
     <tr>
-      <th width="260" align="left" valign="middle">Project</th>
-      <th width="780" align="left" valign="middle">Focus</th>
+      <th width="28%" align="left" valign="middle">Project</th>
+      <th width="72%" align="left" valign="middle">Focus</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
-      <td align="left" valign="middle" nowrap width="780" title="A live map-first product for exploring places.">A live map-first product for exploring places. <a href="https://github.com/twoimo/tzudong">Source</a>.</td>
+      <td align="left" valign="middle" title="A live map-first product for exploring places.">A live map-first product for exploring places. <a href="https://github.com/twoimo/tzudong">Source</a>.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
-      <td align="left" valign="middle" nowrap width="780" title="On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk."><span title="On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.">On-device macOS AI assistant with MLX, local knowledge...</span></td>
+      <td align="left" valign="middle" title="On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.">On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://bitcoin-cycle-atlas.twoimo.workers.dev/">Bitcoin Cycle Atlas</a></strong></td>
-      <td align="left" valign="middle" nowrap width="780" title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research."><span title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research.">Source-linked charts for Bitcoin cycles, related markets...</span> <a href="https://github.com/twoimo/bitcoin-cycle-atlas">Source</a>.</td>
+      <td align="left" valign="middle" title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research.">Source-linked charts for Bitcoin cycles, related markets, and reproducible research. <a href="https://github.com/twoimo/bitcoin-cycle-atlas">Source</a>.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>Rebuilt&nbsp;Spark</strong></td>
-      <td align="left" valign="middle" nowrap width="780" title="Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation."><span title="Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation.">Recovered from Spark and rebuilt for Shopify shops, themes...</span></td>
+      <td align="left" valign="middle" title="Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation.">Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>RelayDeck</strong></td>
-      <td align="left" valign="middle" nowrap width="780" title="Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path."><span title="Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path.">Local macOS menu-bar relay into KakaoTalk, with receiver checks...</span></td>
+      <td align="left" valign="middle" title="Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path.">Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>Cardnews&nbsp;&amp;&nbsp;Reels</strong></td>
-      <td align="left" valign="middle" nowrap width="780" title="Instagram card news and reels, from draft copy through review.">Instagram card news and reels, from draft copy through review.</td>
+      <td align="left" valign="middle" title="Instagram card news and reels, from draft copy through review.">Instagram card news and reels, from draft copy through review.</td>
     </tr>
   </tbody>
 </table>
