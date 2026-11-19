@@ -45,8 +45,8 @@
       <td align="left" valign="middle" nowrap width="780" title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research."><span title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research.">Source-linked charts for Bitcoin cycles, related markets...</span> <a href="https://github.com/twoimo/bitcoin-cycle-atlas">Source</a>.</td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong>Spark&nbsp;Universe</strong></td>
-      <td align="left" valign="middle" nowrap width="780" title="Shopify themes, product automation, and the Spark desktop app.">Shopify themes, product automation, and the Spark desktop app.</td>
+      <td align="left" valign="middle"><strong>Rebuilt&nbsp;Spark</strong></td>
+      <td align="left" valign="middle" nowrap width="780" title="Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation."><span title="Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation.">Recovered from Spark and rebuilt for Shopify shops, themes...</span></td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>RelayDeck</strong></td>
