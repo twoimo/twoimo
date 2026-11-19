@@ -34,11 +34,43 @@
   <tbody>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
-      <td align="left" valign="middle">A live map-first product for exploring places.</td>
+      <td align="left" valign="middle">A live map-first product for exploring places. <a href="https://github.com/twoimo/tzudong">Source</a>.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
       <td align="left" valign="middle">On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://bitcoin-cycle-atlas.twoimo.workers.dev/">Bitcoin Cycle Atlas</a></strong></td>
+      <td align="left" valign="middle">Source-linked charts for Bitcoin cycles, related markets, and reproducible research. <a href="https://github.com/twoimo/bitcoin-cycle-atlas">Source</a>.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/galaxy-emulator-mac">Galaxy Emulator for Mac</a></strong></td>
+      <td align="left" valign="middle">ARM64 Samsung Galaxy emulator profiles on Apple Silicon, launched from a lightweight CLI.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/codex-meter">codex-meter</a></strong></td>
+      <td align="left" valign="middle">Spend-aware Codex reviews with policy gates, monthly budgets, an audit ledger, and PR spend reports.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://twoimo.github.io/aoa-bitmex-analysis/">AOA BitMEX Analysis</a></strong></td>
+      <td align="left" valign="middle">Independent consistency audit of a public 2018–2021 BitMEX export. <a href="https://github.com/twoimo/aoa-bitmex-analysis">Source</a>.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/honeytem-cardnews">Honeytem Cardnews</a></strong></td>
+      <td align="left" valign="middle">Instagram card-news drafts from affiliate links, with captions and an offline review renderer.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/ps4-ai-video-studio">PS4 AI Video Studio</a></strong></td>
+      <td align="left" valign="middle">Local AI Shorts studio with captions, audio QC, and immutable run evidence.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/dacon-236753-blackbox-accident">DACON Blackbox</a></strong></td>
+      <td align="left" valign="middle">Dashcam analysis for re-recording detection, crash timing, and vehicle motion.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/reproloop-hackathon">ReproLoop</a></strong></td>
+      <td align="left" valign="middle">Recorded-evidence workbench for inspecting an Android bug replay.</td>
     </tr>
   </tbody>
 </table>
