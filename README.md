@@ -18,8 +18,8 @@
 
 ## About me
 
-- Independent builder in Seoul. Shipping **[Tzudong Map](https://tzudong.app)**, a live restaurant map.
-- Building **[Alden](https://github.com/twoimo/alden)**, an on-device macOS AI assistant for KakaoTalk.
+- Independent builder in Seoul. Shipping **Tzudong Map**, a live restaurant map.
+- Building **Alden**, an on-device macOS AI assistant for KakaoTalk.
 - I show a running system rather than a pitch. **Opinions proven by shipped code.**
 
 ## Projects
@@ -33,12 +33,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
-      <td align="left" valign="middle" title="Interactive restaurant map of places featured in Tzuyang videos.">Interactive restaurant map of places featured in Tzuyang videos. · <a href="https://github.com/twoimo/tzudong">Source</a></td>
+      <td align="left" valign="middle"><strong>Tzudong&nbsp;Map</strong></td>
+      <td align="left" valign="middle" title="Interactive restaurant map of places featured in Tzuyang videos.">Interactive restaurant map of places featured in Tzuyang videos.</td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong><a href="https://metaup.twoimo.workers.dev/">MetaUp</a></strong></td>
-      <td align="left" valign="middle" title="Bitcoin and equity cycle workbench backed by cited market data.">Bitcoin and equity cycle workbench backed by cited market data. · <a href="https://github.com/twoimo/metaup">Source</a></td>
+      <td align="left" valign="middle"><strong>MetaUp</strong></td>
+      <td align="left" valign="middle" title="Bitcoin and equity cycle workbench backed by cited market data.">Bitcoin and equity cycle workbench backed by cited market data.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>Spark&nbsp;App</strong></td>
@@ -53,7 +53,7 @@
       <td align="left" valign="middle" title="Automated Instagram card news and reels pipeline with quality gates.">Automated Instagram card news and reels pipeline with quality gates.</td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
+      <td align="left" valign="middle"><strong>Alden</strong></td>
       <td align="left" valign="middle" title="On-device macOS AI assistant on MLX with local search and KakaoTalk.">On-device macOS AI assistant on MLX with local search and KakaoTalk.</td>
     </tr>
   </tbody>
