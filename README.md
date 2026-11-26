@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude-Code-4F46E5?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /></a>&nbsp;
+<a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude_Code-Ultra-4F46E5?style=flat-square&logo=claude&logoColor=white" alt="Claude Code Ultra" /></a>&nbsp;
 <a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-Super_Heavy-4F46E5?style=flat-square&logo=x&logoColor=white" alt="Grok Super Heavy" /></a>&nbsp;
 <a href="https://one.google.com/ai"><img src="https://img.shields.io/badge/Google-AI_Pro-4F46E5?style=flat-square&logo=google&logoColor=white" alt="Google AI Pro" /></a>&nbsp;
 <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-Go-4F46E5?style=flat-square&logo=go&logoColor=white" alt="OpenCode Go" /></a>&nbsp;
@@ -27,34 +27,34 @@
 <table width="100%" cellpadding="12" cellspacing="0">
   <thead>
     <tr>
-      <th width="26%" align="left" valign="middle">Project</th>
-      <th width="74%" align="left" valign="middle">Focus</th>
+      <th width="210" align="left" valign="middle">Project</th>
+      <th width="1400" align="left" valign="middle">Focus</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
-      <td align="left" valign="middle" title="Restaurant map from Tzuyang videos.">Restaurant map from Tzuyang videos. · <a href="https://github.com/twoimo/tzudong">Source</a></td>
+      <td align="left" valign="middle" title="Interactive restaurant map of places featured in Tzuyang videos.">Interactive restaurant map of places featured in Tzuyang videos. · <a href="https://github.com/twoimo/tzudong">Source</a></td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
-      <td align="left" valign="middle" title="On-device macOS AI assistant for KakaoTalk.">On-device macOS AI assistant for KakaoTalk.</td>
+      <td align="left" valign="middle" title="On-device macOS AI assistant on MLX with local search and KakaoTalk.">On-device macOS AI assistant on MLX with local search and KakaoTalk.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://bitcoin-cycle-atlas.twoimo.workers.dev/">Bitcoin&nbsp;Cycle&nbsp;Atlas</a></strong></td>
-      <td align="left" valign="middle" title="Bitcoin and equity cycle charts.">Bitcoin and equity cycle charts. · <a href="https://github.com/twoimo/metaup">Source</a></td>
+      <td align="left" valign="middle" title="Bitcoin and equity cycle workbench backed by cited market data.">Bitcoin and equity cycle workbench backed by cited market data. · <a href="https://github.com/twoimo/metaup">Source</a></td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>Rebuilt&nbsp;Spark</strong></td>
-      <td align="left" valign="middle" title="Desktop workspace for Shopify stores and themes.">Desktop workspace for Shopify stores and themes.</td>
+      <td align="left" valign="middle" title="Desktop workspace for Shopify storefronts, themes, and product catalogs.">Desktop workspace for Shopify storefronts, themes, and product catalogs.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/relaydeck">RelayDeck</a></strong></td>
-      <td align="left" valign="middle" title="Deterministic macOS relay for KakaoTalk.">Deterministic macOS relay for KakaoTalk.</td>
+      <td align="left" valign="middle" title="Deterministic macOS menu-bar relay into KakaoTalk with receiver checks.">Deterministic macOS menu-bar relay into KakaoTalk with receiver checks.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>Cardnews&nbsp;&amp;&nbsp;Reels</strong></td>
-      <td align="left" valign="middle" title="Automated Instagram card news and reels.">Automated Instagram card news and reels.</td>
+      <td align="left" valign="middle" title="Automated Instagram card news and reels pipeline with quality gates.">Automated Instagram card news and reels pipeline with quality gates.</td>
     </tr>
   </tbody>
 </table>
