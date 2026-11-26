@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=Opinions%20proven%20by%20shipped%20code.&descAlignY=58&descSize=18" alt="TWOIMO — Opinions proven by shipped code." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=Opinions%20proven%20by%20shipped%20code.&descAlignY=58&descSize=18" alt="TWOIMO - Opinions proven by shipped code." />
 
 <a href="https://git.io/typing-svg">
   <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Opinions+proven+by+shipped+code.;Shipping+Tzudong+Map;Building+Alden;On-device+macOS+AI+assistant;Build.+Measure.+Ship." alt="Opinions proven by shipped code. Shipping Tzudong Map. Building Alden." />
@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-Pro_20x-4F46E5?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA0NjIgNi4wNDYyIDAgMCAwIDYuNTEzIDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQyLjA4NTIgNC43ODMgMi43NTgyYS43NzEyLjc3MTIgMCAwIDAgLjc4MDYgMGw1Ljg0MjgtMy4zNjg1djIuMzMyNGEuMDgwNC4wODA0IDAgMCAxLS4wMzMyLjA2MTVMOS43NCAxOS45NTAyYTQuNDk5MiA0LjQ5OTIgMCAwIDEtNi4xNDA4LTEuNjQ2NHpNMi4zNDA4IDcuODk1NmE0LjQ4NSA0LjQ4NSAwIDAgMSAyLjMzMTUtMS45OTM4VjExLjZhLjc2NjMuNzY2MyAwIDAgMCAuMzg3OS42NzY1bDUuODE0NCAzLjM1NDMtMi4wMjAxIDEuMTY4NWEuMDc1Ny4wNzU3IDAgMCAxLS4wNzEgMGwtNC44MzAzLTIuNzg2NUE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0MDggNy44NzJ6bTE2LjU5NjMgMy44NTU4TDEzLjEwMzggOC4zNjQgMTUuMTE5MiA3LjJhLjA3NTcuMDc1NyAwIDAgMSAuMDcxIDBsNC44MzAzIDIuNzkxM2E0LjQ5NDQgNC40OTQ0IDAgMCAxLS42NjU4IDguMTA0di01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4%3D&logoColor=white" alt="ChatGPT Pro 20x" /></a>&nbsp;
+<a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude-Code-4F46E5?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /></a>&nbsp;
 <a href="https://grok.com"><img src="https://img.shields.io/badge/Grok-Super_Heavy-4F46E5?style=flat-square&logo=x&logoColor=white" alt="Grok Super Heavy" /></a>&nbsp;
 <a href="https://one.google.com/ai"><img src="https://img.shields.io/badge/Google-AI_Pro-4F46E5?style=flat-square&logo=google&logoColor=white" alt="Google AI Pro" /></a>&nbsp;
 <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-Go-4F46E5?style=flat-square&logo=go&logoColor=white" alt="OpenCode Go" /></a>&nbsp;
@@ -18,43 +18,43 @@
 
 ## About me
 
-- Independent builder in Seoul. Shipping **[Tzudong Map](https://tzudong.app)** — a live map-first product.
-- Building **[Alden](https://github.com/twoimo/alden)** — an on-device macOS AI assistant with local knowledge and KakaoTalk integration.
-- I would rather show a running system than a pitch. Philosophy: **Opinions proven by shipped code.**
+- Independent builder in Seoul. Shipping **[Tzudong Map](https://tzudong.app)**, a live restaurant map.
+- Building **[Alden](https://github.com/twoimo/alden)**, an on-device macOS AI assistant for KakaoTalk.
+- I show a running system rather than a pitch. **Opinions proven by shipped code.**
 
 ## Projects
 
 <table width="100%" cellpadding="12" cellspacing="0">
   <thead>
     <tr>
-      <th width="28%" align="left" valign="middle">Project</th>
-      <th width="72%" align="left" valign="middle">Focus</th>
+      <th width="26%" align="left" valign="middle">Project</th>
+      <th width="74%" align="left" valign="middle">Focus</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
-      <td align="left" valign="middle" title="A live map-first product for exploring places.">A live map-first product for exploring places. <a href="https://github.com/twoimo/tzudong">Source</a>.</td>
+      <td align="left" valign="middle" title="Restaurant map from Tzuyang videos.">Restaurant map from Tzuyang videos. · <a href="https://github.com/twoimo/tzudong">Source</a></td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
-      <td align="left" valign="middle" title="On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.">On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.</td>
+      <td align="left" valign="middle" title="On-device macOS AI assistant for KakaoTalk.">On-device macOS AI assistant for KakaoTalk.</td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong><a href="https://bitcoin-cycle-atlas.twoimo.workers.dev/">Bitcoin Cycle Atlas</a></strong></td>
-      <td align="left" valign="middle" title="Source-linked charts for Bitcoin cycles, related markets, and reproducible research.">Source-linked charts for Bitcoin cycles, related markets, and reproducible research. <a href="https://github.com/twoimo/bitcoin-cycle-atlas">Source</a>.</td>
+      <td align="left" valign="middle"><strong><a href="https://bitcoin-cycle-atlas.twoimo.workers.dev/">Bitcoin&nbsp;Cycle&nbsp;Atlas</a></strong></td>
+      <td align="left" valign="middle" title="Bitcoin and equity cycle charts.">Bitcoin and equity cycle charts. · <a href="https://github.com/twoimo/metaup">Source</a></td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>Rebuilt&nbsp;Spark</strong></td>
-      <td align="left" valign="middle" title="Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation.">Recovered from the original Spark desktop app and rebuilt for Shopify shops, themes, and product automation.</td>
+      <td align="left" valign="middle" title="Desktop workspace for Shopify stores and themes.">Desktop workspace for Shopify stores and themes.</td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong>RelayDeck</strong></td>
-      <td align="left" valign="middle" title="Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path.">Local macOS menu-bar app that relays into KakaoTalk and checks the receiver. No model on the delivery path.</td>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/relaydeck">RelayDeck</a></strong></td>
+      <td align="left" valign="middle" title="Deterministic macOS relay for KakaoTalk.">Deterministic macOS relay for KakaoTalk.</td>
     </tr>
     <tr>
       <td align="left" valign="middle"><strong>Cardnews&nbsp;&amp;&nbsp;Reels</strong></td>
-      <td align="left" valign="middle" title="Instagram card news and reels, from draft copy through review.">Instagram card news and reels, from draft copy through review.</td>
+      <td align="left" valign="middle" title="Automated Instagram card news and reels.">Automated Instagram card news and reels.</td>
     </tr>
   </tbody>
 </table>
