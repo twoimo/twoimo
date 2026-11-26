@@ -37,24 +37,24 @@
       <td align="left" valign="middle" title="Interactive restaurant map of places featured in Tzuyang videos.">Interactive restaurant map of places featured in Tzuyang videos. · <a href="https://github.com/twoimo/tzudong">Source</a></td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
-      <td align="left" valign="middle" title="On-device macOS AI assistant on MLX with local search and KakaoTalk.">On-device macOS AI assistant on MLX with local search and KakaoTalk.</td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle"><strong><a href="https://bitcoin-cycle-atlas.twoimo.workers.dev/">Bitcoin&nbsp;Cycle&nbsp;Atlas</a></strong></td>
+      <td align="left" valign="middle"><strong><a href="https://metaup.twoimo.workers.dev/">MetaUp</a></strong></td>
       <td align="left" valign="middle" title="Bitcoin and equity cycle workbench backed by cited market data.">Bitcoin and equity cycle workbench backed by cited market data. · <a href="https://github.com/twoimo/metaup">Source</a></td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong>Rebuilt&nbsp;Spark</strong></td>
+      <td align="left" valign="middle"><strong>Spark&nbsp;App</strong></td>
       <td align="left" valign="middle" title="Desktop workspace for Shopify storefronts, themes, and product catalogs.">Desktop workspace for Shopify storefronts, themes, and product catalogs.</td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/relaydeck">RelayDeck</a></strong></td>
+      <td align="left" valign="middle"><strong>RelayDeck</strong></td>
       <td align="left" valign="middle" title="Deterministic macOS menu-bar relay into KakaoTalk with receiver checks.">Deterministic macOS menu-bar relay into KakaoTalk with receiver checks.</td>
     </tr>
     <tr>
-      <td align="left" valign="middle"><strong>Cardnews&nbsp;&amp;&nbsp;Reels</strong></td>
+      <td align="left" valign="middle"><strong>SlotLine</strong></td>
       <td align="left" valign="middle" title="Automated Instagram card news and reels pipeline with quality gates.">Automated Instagram card news and reels pipeline with quality gates.</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
+      <td align="left" valign="middle" title="On-device macOS AI assistant on MLX with local search and KakaoTalk.">On-device macOS AI assistant on MLX with local search and KakaoTalk.</td>
     </tr>
   </tbody>
 </table>
