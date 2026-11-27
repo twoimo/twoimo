@@ -19,7 +19,7 @@
 ## About me
 
 <p style="text-align: justify;">
-Hi there! I work on Tzudong Map and MetaUp. Tzudong is a live restaurant map, and MetaUp is a Bitcoin and equity cycle workbench. Previously I studied computer science at Dongguk and Kongju.
+Hi there! I work on Tzudong Map and MetaUp. Previously I studied computer science at Dongguk and Kongju.
 </p>
 
 ## Projects
