@@ -16,12 +16,6 @@
 
 </div>
 
-## About me
-
-<p style="text-align: justify;">
-Hi there! I work on Tzudong Map and MetaUp. Previously I studied computer science at Dongguk and Kongju.
-</p>
-
 ## Projects
 
 <table width="100%" cellpadding="12" cellspacing="0">
