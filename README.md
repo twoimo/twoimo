@@ -18,9 +18,7 @@
 
 ## About me
 
-- Independent builder in Seoul. Shipping **Tzudong Map**, a live restaurant map.
-- Building **Alden**, an on-device macOS AI assistant for KakaoTalk.
-- I show a running system rather than a pitch. **Opinions proven by shipped code.**
+Hi there! I work on Tzudong Map and MetaUp. Tzudong is a live restaurant map, and MetaUp is a Bitcoin and equity cycle workbench. Previously I studied computer science at Dongguk and Kongju.
 
 ## Projects
 
